@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Money Manager is a full-stack web application that helps users track their income and expenses, analyze spending patterns, and manage financial data efficiently. This repository contains the **frontend** of the application built using React and Tailwind CSS.
+Finance Dashboard is a full-stack web application that helps users track their income and expenses, analyze spending patterns, and manage financial data efficiently. This repository contains the **frontend** of the application built using React and Tailwind CSS.
 
 ---
 
@@ -127,12 +127,6 @@ http://localhost:5173
 * API integration using Axios
 * Conditional rendering
 * Responsive UI design
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of your UI here)
 
 ---
 
